@@ -17,12 +17,12 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.baosight.mes.myapp2</string>
+          <string>com.baosight.mes.testapp2</string>
           <key>bundle-version</key>
-          <string>1.0</string>
+          <string>0.0.1</string>
           <key>kind</key>
           <string>software</string>
-          <key>HelloCordova</key>
+          <key>title</key>
           <string>HelloCordova.ipa</string>
         </dict>
       </dict>
